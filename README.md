@@ -2,7 +2,6 @@
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/hannahfolk/budget-tracker)
 ![GitHub contributors](https://img.shields.io/github/contributors/hannahfolk/budget-tracker)
-![GitHub stars](https://img.shields.io/github/stars/hannahfolk/budget-tracker?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/hannahfolk/budget-tracker?style=social)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -100,7 +99,7 @@ This project uses the [MIT][license-url] license.
 [stars-url]: https://github.com/hannahfolk/budget-tracker/stargazers
 [issues-shield]: https://img.shields.io/github/issues/hannahfolk/budget-tracker
 [issues-url]: https://github.com/hannahfolk/budget-tracker/issues
-[license-shield]: https://img.shields.io/github/license/hannahfolk/budget-tracker?style=flat-square
+[license-shield]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: https://github.com/hannahfolk/budget-tracker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hannahfolk
